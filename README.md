@@ -4,6 +4,8 @@ The agent uses the explore_world function to obtain knowledge of the environment
 in the internal board, correspondingly the 4 adjacent tiles are checked and each threat perceived at each of these tiles is
 then used to update the agents internal board.
 
+![Alt text](https://github.com/khamkarajinkya/Agent-for-wumpus-world/edit/master/output1.png?raw=true "Optional Title")
+
 Two separate knowledge bases are used, one keeps a track of the stench that is observed all over the environment, second keeps a track 
 of all the breeze that the agent may encounter.
 
